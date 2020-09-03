@@ -1,0 +1,2 @@
+# crmPagination
+Vue.js pagination 
